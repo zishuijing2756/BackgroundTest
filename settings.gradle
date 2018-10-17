@@ -1,0 +1,4 @@
+include ':app', ':library_devkit', ':module_background'
+include(':BackgroundLibrary')
+//project(':BackgroundLibrary').projectDir=new File('../BackgroundLibrary/library')
+project(':BackgroundLibrary').projectDir=new File('https://github.com/JavaNoober/BackgroundLibrary/tree/master/library')
