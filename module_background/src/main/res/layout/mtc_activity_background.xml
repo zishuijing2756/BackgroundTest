@@ -140,7 +140,7 @@
             app:pressed_drawable="@color/mtc_color_71C671"
             app:ripple_color="@color/mtc_color_71C671"
             app:ripple_enable="true"
-            app:stroke_color="mtc_color_8c6822"
+            app:stroke_color="@color/mtc_color_8c6822"
             app:stroke_width="2dp"
             app:unPressed_drawable="@color/mtc_color_7CFC00"/>
 
